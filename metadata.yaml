@@ -1,0 +1,36 @@
+_repo: Die-Freigabe-der-Vernichtung-lebensunwerten-LebensIhr-Ma--und-ihre-Form--Zweite-Auflage_44565
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44565-h/images/cover_ebook.jpg
+creator:
+  authors:
+  - agent_name: Binding, Karl
+    birthdate: 1841
+    deathdate: 1920
+    gutenberg_agent_id: '42816'
+    url: http://www.gutenberg.org/2009/agents/42816
+  - agent_name: Hoche, Alfred
+    alias: Hoche, A. (Alfred)
+    birthdate: 1865
+    deathdate: 1943
+    gutenberg_agent_id: '42817'
+    url: http://www.gutenberg.org/2009/agents/42817
+description: ''
+gutenberg_issued: '2014-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44565'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KJ'
+- !lcsh 'Suicide -- Germany'
+- !lcsh 'Euthanasia -- Law and legislation -- Germany'
+- !lcsh 'Assisted suicide -- Law and legislation -- Germany'
+title: 'Die Freigabe der Vernichtung lebensunwerten Lebens
+
+  Ihr Maß und ihre Form; Zweite Auflage'
+url: http://www.gutenberg.org/ebooks/44565
